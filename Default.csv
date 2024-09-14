@@ -1,0 +1,7 @@
+"START","Hello there - I am the personality-less chatbot. What would you like to do?","Nothing;N;Nothing","Exit;E;Exit","Talk about the weather.;W;SmallTalkWeather"
+"Nothing","Nothing completed. What would you like to do?","Nothing;N;Nothing","Exit;E;Exit","Talk about the weather.;W;SmallTalkWeather"
+"Exit","Exiting now."
+"SmallTalkWeather","Yes - it sure is some interesting weather we're having right now- isn't it?","Yes - it sure is hot!;Y;HotWeather","Yes - it's been freezing!;F;FreezingWeather","It's been too quiet;Q;QuietWeather","Exit;E;Exit"
+"HotWeather","Boy howdy tell me about it! I'm sweating!"
+"FreezingWeather","Yes - I've been struggling to start my car in these frigid mornings!"
+"QuietWeather","It almost makes you wish for a thunderstorm - hey!"

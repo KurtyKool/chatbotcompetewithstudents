@@ -1,0 +1,6 @@
+"START","Do you own any pets?","Dog;D;HasDog","Cat;C;HasCat","Bird;B;HasBird"
+"HasDog","Wow - that's cool! I have a cat but I love dogs!"
+"HasCat","Amazing - I have a cat too!"
+"HasBird","Wow - what kind of bird?","A big one;B;BigBird","A small one;S;SmallBird"
+"BigBird","I hope it doesn't eat you!"
+"SmallBird","I hope you don't eat it!"
